@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="/usr/bin/black" />
+    <option name="sdkUUID" value="54ba11f8-9784-4603-9b95-26d115d5da45" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (url_validator)" project-jdk-type="Python SDK" />
+</project>
